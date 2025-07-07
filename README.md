@@ -43,8 +43,22 @@
   <a href="https://wa.me/6281234567890" target="blank">
     <a href="https://https://www.tiktok.com/@raihan13530?_t=ZS-8xpGzuOD76V&_r=1/@raihan13530" target="blank">
   <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+      <a href="<a href="https://wa.me/6281234567890" target="blank">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+" target="blank">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </a>
+
+</a>
+
+### 🔥 3D Profile View (Opsional)
+<p align="center">
+  <a href="https://github.com/Raihan625">
+    <img src="https://github.com/Raihan625/Raihan625/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
 
 </p>
