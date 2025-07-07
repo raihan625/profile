@@ -41,7 +41,6 @@
 <p>
   <a href="https://www.instagram.com/zsans12?igsh=a3E2a3JlY2F5b2g2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/6281234567890" target="blank">
-  <img align="center" src="+62 817-7289-1623//img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a href="https://https://www.tiktok.com/@raihan13530?_t=ZS-8xpGzuOD76V&_r=1/@raihan13530" target="blank">
   <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
