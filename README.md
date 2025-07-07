@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAIHAN BAICHAQI</h1>
-<h3 align="center">🧑‍💻 Siswa RPL Kelas 3 | SMKN 1 TALAGA</h3>
+<h3 align="center">🧑‍💻 Siswa RPL Kelas XII | SMKN 1 TALAGA</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -39,8 +39,7 @@
 
 ### 🔗 Temui Saya di Sini
 <p>
-  <a href="https://www.linkedin.com/in/NAMALINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/USERNAMEKAMU" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/zsans12?igsh=a3E2a3JlY2F5b2g2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
