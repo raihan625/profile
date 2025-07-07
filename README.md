@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEKAMU&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihan625&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihan625&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -40,13 +40,4 @@
 ### 🔗 Temui Saya di Sini
 <p>
   <a href="https://www.instagram.com/zsans12?igsh=a3E2a3JlY2F5b2g2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 🔥 3D Profile View (Opsional)
-<p align="center">
-  <a href="https://github.com/USERNAMEKAMU">
-    <img src="https://github.com/USERNAMEKAMU/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg" />
-  </a>
 </p>
